@@ -11,5 +11,8 @@
 #### Pui2018
 ![](https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW1_lj1230/pui2018.png)
 
+### Task2：Extra Assignment
+- note: wegt means web get
+
 ## Contributions
 - Not decided yet
