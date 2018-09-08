@@ -13,6 +13,7 @@
 
 ### Task2：Extra Assignment
 - note: wegt means web get
+- https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW1_3_lj1230.ipynb
 
 ## Contributions
-- Not decided yet
+- Complete the work independently
