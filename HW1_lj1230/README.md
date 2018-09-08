@@ -6,11 +6,10 @@
 ## Tasks
 ### Task1: Setting Environment Variable
 - note: by convention environmental variables' names are all caps.
-#### Temporary
-![](https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW1_lj1230/Setting_ENV_VAR.png)
-#### Eternal
-![](https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW1_lj1230/Setting_ENV_VAR_system.png)
-![](https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW1_lj1230/Result_of_ENV_VAR_system.png)
+#### Bashrc
+![](https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW1_lj1230/bashrc.png)
+#### Pui2018
+![](https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW1_lj1230/pui2018.png)
 
 ## Contributions
 - Not decided yet
