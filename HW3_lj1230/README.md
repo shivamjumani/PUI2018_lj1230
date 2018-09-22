@@ -5,7 +5,6 @@
 
 ## Tasks
 ### Task1: Deleting a Github file and its history
-- note: by convention environmental variables' names are all caps.
 
 #### Bashrc
 ![](https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW1_lj1230/bashrc.png)
