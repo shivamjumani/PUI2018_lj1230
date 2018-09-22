@@ -21,5 +21,8 @@
 - link1: https://jupyterhub.cusp.adrf.cloud/user/lj1230/notebooks/2018_Fall_PUI/HW2/HW2_2_NYCOpenData.ipynb
 - link2: https://jupyterhub.cusp.adrf.cloud/user/lj1230/notebooks/2018_Fall_PUI/HW2/HW2_2_NYCOpenData_API.ipynb
 
+### Task3: Obtain real-time data through MTA API
+- link: https://jupyterhub.cusp.adrf.cloud/user/lj1230/edit/2018_Fall_PUI/HW2/show_bus_locations_lj1230.py
+
 ## Contributions
 - Complete the work independently
