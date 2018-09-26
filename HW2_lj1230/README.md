@@ -18,14 +18,14 @@
 
 ### Task2：Manipulate the NYC Open Data
 - note: since the environment variable "PUIDATA" was built on ADRF, the work are saved there
-- link1: https://jupyterhub.cusp.adrf.cloud/user/lj1230/notebooks/2018_Fall_PUI/HW2/HW2_2_NYCOpenData.ipynb
-- link2: https://jupyterhub.cusp.adrf.cloud/user/lj1230/notebooks/2018_Fall_PUI/HW2/HW2_2_NYCOpenData_API.ipynb
+- link1: https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW2_lj1230/HW2_2_NYCOpenData_CSV.ipynb
+- link2: https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW2_lj1230/HW2_2_NYCOpenData_API.ipynb
 
 ### Task3: Obtain real-time data through MTA API
-- link: https://jupyterhub.cusp.adrf.cloud/user/lj1230/edit/2018_Fall_PUI/HW2/show_bus_locations_lj1230.py
+- link: https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW2_lj1230/show_bus_locations_lj1230.py
 
 ### Task4: Save real-time MTA data from json to csv format
-- link: https://jupyterhub.cusp.adrf.cloud/user/lj1230/edit/2018_Fall_PUI/HW2/get_bus_info_lj1230.py
+- link: https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW2_lj1230/get_bus_info_lj1230.py
 
 ## Contributions
 - Complete the work independently
