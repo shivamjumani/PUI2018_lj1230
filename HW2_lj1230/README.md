@@ -17,7 +17,6 @@
 ![](https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW2_lj1230/post-history.png)
 
 ### Task2：Manipulate the NYC Open Data
-- note: since the environment variable "PUIDATA" was built on ADRF, the work are saved there
 - link1: https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW2_lj1230/HW2_2_NYCOpenData_CSV.ipynb
 - link2: https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW2_lj1230/HW2_2_NYCOpenData_API.ipynb
 
