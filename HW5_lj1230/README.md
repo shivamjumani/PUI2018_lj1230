@@ -11,4 +11,4 @@
 - link: https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW5_lj1230/Assignment2_SQL_query.ipynb
 
 ## Contributions
-- Complete the work independently
+- Only the extra credit2(task4.2) was discussed with Hanxing Li(hl3282), other parts were done independently
