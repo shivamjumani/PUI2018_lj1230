@@ -12,10 +12,10 @@
 - link: 
 
 ### Task3：
-- link: 
+- link: https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW6_lj1230/Assignment3_NYCPostPrison.ipynb 
 
 ### Task4：
 - link: 
 
 ## Contributions
-- 
+- Complete the work independently
