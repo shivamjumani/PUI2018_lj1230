@@ -11,7 +11,7 @@
 
 ### Task2：
 - note: Only this is a group work
-- roles: Shijia Gu(sg5718), Hanxing Li(hl3282) and me are responsible for t-test, multiple regression and logistic regression respectively
+- roles: Shijia Gu(sg5718), Hanxing Li(hl3282) and I are responsible for t-test, multiple regression and logistic regression respectively
 - results:
 
 ### Task3：
