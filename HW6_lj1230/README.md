@@ -10,7 +10,9 @@
 - PullRequest: ![](https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW6_lj1230/Assignment1_CItibikeReview_PullRequest.png)
 
 ### Task2：
-- link: 
+- note: Only this is a group work
+- roles: Shijia Gu(sg5718), Hanxing Li(hl3282) and me are responsible for t-test, multiple regression and logistic regression respectively
+- results:
 
 ### Task3：
 - link: https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW6_lj1230/Assignment3_NYCPostPrison.ipynb 
