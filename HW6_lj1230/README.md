@@ -18,7 +18,7 @@
 - link: https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW6_lj1230/Assignment3_NYCPostPrison.ipynb 
 
 ### Task4：
-- link: 
+- link: https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW6_lj1230/Assignment4_citibikes.ipynb 
 
 ## Contributions
-- Complete the work independently
+- Only task2 is a group work, other parts are completed independently
