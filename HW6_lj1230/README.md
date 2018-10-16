@@ -14,17 +14,9 @@
 - roles: Shijia Gu(sg5718), Hanxing Li(hl3282) and I are responsible for t-test, multiple regression and logistic regression respectively
 - results:  
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-================================
-
-| **Statistical Analyses**	|  **IV(s)**                                                             |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
+| **Statistical Analyses**	|  **IV(s)** |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
 |:-------------------------:|:-----------------------------------------------------------------------|:----------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
-| Logistic Regression   	| 14, EDF similarity scores generated first by tube features then by LDA | continuous      | 1, did AML-positive or no| categorical(when predict output a continuous confidence value) | 5, different fluorescence makers | categorical (combined to 7 combinations) | 	Do different fluorescence makers help predict leukemia | AUC scores of each group are same | 0.05 | [Leukemia Prediction Using Sparse Logistic Regression](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0072932#pone.0072932.e013) |
+| Logistic Regression	| 14, EDF similarity scores generated first by tube features then by LDA | continuous	| 1, did AML-positive or no| categorical(when predict output a continuous confidence value) | 5, different fluorescence makers | categorical (combined to 7 combinations) | 	Do different fluorescence makers help predict leukemia | AUC scores of each group are same | 0.05 | [Leukemia Prediction Using Sparse Logistic Regression](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0072932#pone.0072932.e013) |
 
 ### Task3：
 - link: https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW6_lj1230/Assignment3_NYCPostPrison.ipynb 
