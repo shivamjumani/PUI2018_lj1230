@@ -12,7 +12,7 @@
 ### Task2：
 - note: Only this is a group work
 - roles: Shijia Gu(sg5718), Hanxing Li(hl3282) and I are responsible for t-test, multiple regression and logistic regression respectively
-- results:
+- results:  
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
 Logistic Regression	| 14, EDF similarity scores generated first by tube features then by LDA | continuous | 1, did AML-positive or no| categorical(when predict output a continuous confidence value) | 5, different fluorescence makers | categorical (combined to 7 combinations) | 	Do different fluorescence makers help predict leukemia | AUC scores of each group are same | 0.05 | [Leukemia Prediction Using Sparse Logistic Regression](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0072932#pone.0072932.e013) |
