@@ -18,7 +18,7 @@
 |:-------------------------:|:-----------------------------------------------------------------------|:----------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
 | Logistic Regression | 12, sonographic features | continuous and categorical | 1, did suffer thyroid nodules or no | dichotomous | 0 | no control variables | Does 12 features help diagnose thyroid nodules | all predictors are not significant | 0.05 | [Logistic regression analysis of conventional ultrasonography, strain elastosonography, and contrast-enhanced ultrasound characteristics for the differentiation of benign and malignant thyroid nodules](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0188987) |
 
-Results figure for LogisticRegression:  
+** Result figure for LogisticRegression: **  
 ![](https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW6_lj1230/LogisticRegression.PNG)
 
 ### Task3：
