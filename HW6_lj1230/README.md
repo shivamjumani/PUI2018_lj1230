@@ -11,7 +11,7 @@
 
 ### Task2：
 - note: Only this is a group work
-- roles: **Shijia Gu(sg5718), Hanxing Li(hl3282) and I are responsible for t-test, multiple regression and logistic regression respectively**
+- roles: **Shijia Gu(sg5718), Hanxing Li(hl3282) and I are responsible for ancova, multiple regression and logistic regression respectively**
 - results:  
 
 | **Statistical Analyses**	|  **IV(s)** |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
