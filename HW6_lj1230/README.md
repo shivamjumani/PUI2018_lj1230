@@ -11,13 +11,16 @@
 
 ### Task2：
 - note: Only this is a group work
-- roles: **Shijia Gu(sg5718), Hanxing Li(hl3282) and I are responsible for ancova, multiple regression and logistic regression respectively**
+- roles: **Shijia Gu(sg5718), Hanxing Li(hl3282) and I are responsible for ANCOVA, multiple regression and logistic regression respectively**
 - results:  
 
 | **Statistical Analyses**	|  **IV(s)** |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
 |:-------------------------:|:-----------------------------------------------------------------------|:----------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
+| ANCOVA | 1, Average Number Correct | ordinal | 1, did sleep or no | categorical | 1, age | categorical | Does sleep improve memory in early adolescence sample？| Average Number Correct with sleep <= Average Number Correct without sleep | 0.05 | [Sleep Improves Memory: The Effect of Sleep on Long Term Memory in Early Adolescence](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0042191#s4) |
 | Logistic Regression | 12, sonographic features | continuous and categorical | 1, did suffer thyroid nodules or no | dichotomous | 0 | no control variables | Does 12 features help diagnose thyroid nodules | all predictors are not significant | 0.05 | [Logistic regression analysis of conventional ultrasonography, strain elastosonography, and contrast-enhanced ultrasound characteristics for the differentiation of benign and malignant thyroid nodules](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0188987) |
 
+**Result figure for ANCOVA:**  
+![](https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW6_lj1230/ANCOVA.PNG)
 **Result figure for LogisticRegression:**  
 ![](https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW6_lj1230/LogisticRegression.PNG)
 
