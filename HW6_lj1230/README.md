@@ -20,11 +20,11 @@
 | Multiple Regression | 3, BAI, age, sex | BAI:continuous, age:continuous, sex:categorical | body fat in adults | continuous | 0 | 0 | Do BAI, age and sex have impact on body fat in adults? | BAI, age and sex have no impact on body fat in adults. | 0.05 | [A Comparison between Multiple Regression Models and CUN-BAE Equation to Predict Body Fat in Adults](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0122291) |
 | Logistic Regression | 12, sonographic features | continuous and categorical | 1, did suffer thyroid nodules or no | dichotomous | 0 | no control variables | Does 12 features help diagnose thyroid nodules | all predictors are not significant | 0.05 | [Logistic regression analysis of conventional ultrasonography, strain elastosonography, and contrast-enhanced ultrasound characteristics for the differentiation of benign and malignant thyroid nodules](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0188987) |
 
-**Result figure for ANCOVA:**  
+- **Result figure for ANCOVA:**  
 ![](https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW6_lj1230/ANCOVA.PNG)
-**Result figure for Multiple Regression:**  
+- **Result figure for Multiple Regression:**  
 ![](https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW6_lj1230/MultipleRegression.PNG)
-**Result figure for Logistic Regression:**  
+- **Result figure for Logistic Regression:**  
 ![](https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW6_lj1230/LogisticRegression.PNG)
 
 ### Task3：
