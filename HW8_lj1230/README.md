@@ -10,7 +10,8 @@
 
 ### Task2：CitiBike Mini Project
 - note: only this assignment is a group work
-- link: https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW8_lj1230/Assignment2_Citibikes_Usertype.ipynb
+- code link: https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW8_lj1230/Assignment2_Citibikes_Usertype.ipynb
+- report link: https://www.authorea.com/users/249320/articles/335330-hypothesis-report-for-citibike-data?access_token=4EtIitYhi3WEEaJm7pPBjA
 
 ## Contributions
 - See notes above
