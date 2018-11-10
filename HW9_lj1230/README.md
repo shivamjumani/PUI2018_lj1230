@@ -5,16 +5,14 @@
 
 ## Tasks
 ### Task1: Review Plots
-- link: https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW8_lj1230/Assignment1_plot_lj1230.ipynb
-![](https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW8_lj1230/plot.png) 
+- review1: https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW9_lj1230/mbh329_plotReview_lj1230.md
+- review2: https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW9_lj1230/ys3226_plotReview_lj1230.md
 
-### Task2：CitiBike Mini Project
-- note: only this assignment is a group work
-- code link: https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW8_lj1230/Assignment2_Citibikes_Usertype.ipynb
-- report link: https://www.authorea.com/users/249320/articles/335330-hypothesis-report-for-citibike-data?access_token=4EtIitYhi3WEEaJm7pPBjA
+### Task2: Linear regression using statsmodels
+- link: https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW9_lj1230/Assignment2_lj1230.ipynb
 
-### Task3: 
-- link:
+### Task3: Linear relationships investigation
+- link: https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW9_lj1230/Assignment3_lj1230.ipynb
 
 ## Contributions
-- See notes above
+- this work are completed independently
